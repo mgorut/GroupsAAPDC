@@ -3,3 +3,5 @@
 /CalculoRFC/.idea/
 /CalculoRFC/cmake-build-debug/
 /CalculoRFC/CMakeLists.txt
+/cmake-build-debug/
+/CMakeLists.txt
